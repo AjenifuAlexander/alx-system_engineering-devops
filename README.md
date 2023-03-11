@@ -1,1 +1,2 @@
-My Shell Basis
+#!/bin/bash
+echo "My Shell Basics"
