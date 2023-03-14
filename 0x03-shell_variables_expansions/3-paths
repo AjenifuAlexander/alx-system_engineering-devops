@@ -1,2 +1,2 @@
 #!/bin/bash
-ls | wc -dl $PATH
+echo $((`echo $PATH | grep -0 ":/" | wc -l`))
