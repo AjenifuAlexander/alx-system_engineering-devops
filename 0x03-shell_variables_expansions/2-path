@@ -1,2 +1,2 @@
 #!/bin/bash
-mv tail -1 /action > PATH
+mv /action > PATH
