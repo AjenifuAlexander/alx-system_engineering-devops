@@ -1,2 +1,2 @@
 #!/bin/bash
-ls | wc -dl PATH
+ls | wc -dl $PATH
